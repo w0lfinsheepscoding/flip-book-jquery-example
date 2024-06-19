@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iberezansky/flip-book-jquery-example.git"
+    "url": "git+https://github.com/w0lfinsheepscoding/flip-book-jquery-example.git"
   },
   "keywords": [
     "jquery-plugin",
@@ -46,7 +46,7 @@
     "webpack-dev-server": "^2.1.0-beta.12"
   },
   "bugs": {
-    "url": "https://github.com/iberezansky/flip-book-jquery-example/issues"
+    "url": "https://github.com/w0lfinsheepscoding/flip-book-jquery-example/issues"
   },
-  "homepage": "https://github.com/iberezansky/flip-book-jquery-example#readme"
+  "homepage": "https://github.com/w0lfinsheepscoding/flip-book-jquery-example#readme"
 }
